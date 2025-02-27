@@ -4,7 +4,7 @@ import { analyzeImage } from '../lib/gemini';
 import SupportBlock from '../components/SupportBlock';
 
 // Default tree image path
-const DEFAULT_IMAGE = "/default-tree.jpeg";
+const DEFAULT_IMAGE = "/default-tree.jfif";
 
 // Default analysis for the tree
 const DEFAULT_ANALYSIS = `1. Species Identification:
